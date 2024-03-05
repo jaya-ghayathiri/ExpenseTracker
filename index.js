@@ -15,7 +15,10 @@ app.use(cors())
  * 2)install-->npm i cors
  * 3)const cors=require('cors')
  * 4)app.use(cors())
- * 
+ * render.com in browser-->get free started
+ * new web servies--config account--only select repo--particularly choose the repo--click on connect
+ * next-->chage the build command as npm install---then at start command()print npm start--create web services
+ * copy the link in render after some procedur place the copied link instead of localhost8000...
  * 
  * expense tracker
  * 
